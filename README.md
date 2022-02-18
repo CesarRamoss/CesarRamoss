@@ -5,7 +5,7 @@
 
  
 
-#### <em> :computer: Sou estudante da Trybe me preparando para ser um futuro Full Stack!
+#### <em> </br> :computer: Sou estudante da Trybe me preparando para ser um futuro Full Stack!
 
 #### :house_with_garden: Moro em Campinas - SP.
 
@@ -15,7 +15,9 @@
  
 #### :outbox_tray: 2022 Metas: Desenvolver, codar, me desafiar ... loop!!! 
  
-### Ferramentas e tecnologias que utilizo:
+ 
+ 
+### </br> Ferramentas e tecnologias que utilizo:
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -27,10 +29,11 @@
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
 </div>
 
+## </br>
 
-<br>
-
-![CesarRamoss GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarRamoss&show_icons=true&theme=radical) <br>
+ ![CesarRamoss GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarRamoss&show_icons=true&theme=radical) 
+ </br> 
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarRamoss&layout=compact)](https://github.com/CesarRamoss/github-readme-stats)
 
