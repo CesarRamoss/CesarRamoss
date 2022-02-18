@@ -12,6 +12,8 @@
 ### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React.
 
 ### :outbox_tray: 2021 Metas: Participar de vários projetos e aprender cada vez mais! 
+ 
+### :outbox_tray: 2022 Metas: Desenvolver, codar, me desafiar ... loop!!! 
 
 
 <br>
