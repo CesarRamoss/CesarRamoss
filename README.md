@@ -9,7 +9,7 @@
 
 ### :house_with_garden: Moro em Campinas - SP.
 
-### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React.
+### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React, Redux.
 
 ### :outbox_tray: 2021 Metas: Participar de vários projetos e aprender cada vez mais! 
  
