@@ -5,15 +5,15 @@
 
  
 
-### <em> :computer: Sou estudante da Trybe me preparando para ser um futuro Full Stack!
+#### <em> :computer: Sou estudante da Trybe me preparando para ser um futuro Full Stack!
 
-### :house_with_garden: Moro em Campinas - SP.
+#### :house_with_garden: Moro em Campinas - SP.
 
-### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React, Redux.
+#### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React, Redux.
 
-### :outbox_tray: 2021 Metas: Participar de vários projetos e aprender cada vez mais! 
+#### :outbox_tray: 2021 Metas: Participar de vários projetos e aprender cada vez mais! 
  
-### :outbox_tray: 2022 Metas: Desenvolver, codar, me desafiar ... loop!!! 
+#### :outbox_tray: 2022 Metas: Desenvolver, codar, me desafiar ... loop!!! 
  
 ### Ferramentas e tecnologias que utilizo:
 
