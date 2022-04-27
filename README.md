@@ -5,7 +5,7 @@
 
  
 
-#### <em> </br> :computer: Sou estudante da Trybe me preparando para ser um futuro Full Stack!
+#### <em> </br> :computer: Sou desenvolvedor FrontEnd me desafiando no momento em BackEnd!!
 
 #### :house_with_garden: Moro em Campinas - SP.
 
