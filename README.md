@@ -5,19 +5,17 @@
 
  
 
-#### <em> </br> :computer: Sou desenvolvedor FrontEnd me desafiando no momento em BackEnd!!
+#### <em> </br> :computer: Sou desenvolvedor Web!!
 
 #### :house_with_garden: Moro em Campinas - SP.
 
-#### :books: Estou me dedicando aos estudos de HTML, CSS, Javascript, React, Redux, Docker, MYSQL, Node JS.
+#### :books: Desenvolvo com práticas em HTML, CSS, Javascript, React, Redux, Material UI, Bootstrap, SQL, Node JS, Tests unitários, entre outros...
 
-#### :outbox_tray: 2021 Metas: Participar de vários projetos e aprender cada vez mais! 
- 
-#### :outbox_tray: 2022 Metas: Desenvolver, codar, me desafiar ... loop!!! 
+#### :outbox_tray: 2024 Metas: Desafiar aprendendo cada vez mais!!
  
  
  
-### </br> <p align="center">Ferramentas e tecnologias que utilizo:</p>
+### </br> <p align="center">Algumas ferramentas e tecnologias que utilizo:</p>
 
 <div align="center">
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
